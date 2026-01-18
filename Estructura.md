@@ -1,13 +1,10 @@
 📁 portfolio/
  ┣ 📄 README.md
  ┣ 📁 Acount_evidences/
- ┃   ┣ 📁 transervi-2020/
- ┃   ┣ 📁 electrovichada-2021/
- ┃   ┣ 📁 fervicom-auditorias/
- ┃   ┣ 📁 inlogistic-iso9001/
- ┃   ┗ 📁 trippleten-qa-project/
- ┣ 📁 qa-evidences/
- ┃   ┣ 📄 test-cases.md
- ┃   ┣ 📄 bug-reports.md
- ┃   ┗ 📄 checklist.md
+ ┃   ┣ 📄 transervi/
+ ┃   ┣ 📄 electrovichada/
+ ┃   ┣ 📄 fervicom/
+ ┃   ┣ 📄 inlogistic/
+  ┣ 📁 qa-evidences/
+ ┃   ┗ 📄 trippleten-qa-project/
  ┗ 📄 about.md
