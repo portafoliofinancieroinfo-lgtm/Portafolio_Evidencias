@@ -1,6 +1,6 @@
 > ⚠️ **Nota sobre evidencias:**
 > Por motivos de confidencialidad y políticas corporativas, no es posible publicar documentos, bases de datos ni soportes reales relacionados con este caso.
-> La información presentada en este portafolio tiene fines demostrativos y describe mi experiencia, metodología y aportes sin comprometer datos sensibles de la empresa.
+> La información presentada en este portafolio tiene fines demostrativos y describe mi experiencia, metodología y aportes sin comprometer datos sensibles de la empresa. El script y los datos de este repositorio son sintéticos.
 
 # Proyecto – Transervi S.A.S
 **Rol:** Auxiliar Contable
@@ -60,6 +60,33 @@ antes de avanzar al siguiente.
 ✔ Reducción de **riesgos fiscales**
 ✔ Información **financiera confiable** para la gerencia
 
+## Herramienta: `conciliador.py`
+
+Para este portafolio automaticé, sobre un **dataset sintético de 3.000 movimientos** (la misma escala del caso real),
+el tipo de conciliación banco-libro que hice manualmente: cruza ambas fuentes por identificador, calcula diferencias
+de monto y detecta movimientos que solo existen en una de las dos fuentes o que están duplicados.
+
+```bash
+pip install -r ../requirements.txt
+python conciliador.py
+```
+
+**Salida de ejemplo:**
+
+```
+Movimientos conciliados:            2920 (98.6%)
+Diferencias de monto:                15
+Sin extracto bancario:                25
+Sin registrar en el libro:            40
+Registros duplicados en el libro:    20
+Registros duplicados en el banco:    0
+```
+
+![Hallazgos de la conciliación banco vs. libro contable](./evidencia/metricas.png)
+
+La cobertura de pruebas de este script (casos de prueba y bugs encontrados al probarlo como QA) está documentada en
+[proyectos-personales/qa/transervi-conciliador.md](../../proyectos-personales/qa/transervi-conciliador.md).
+
 ## ¿Por qué este proyecto es importante?
 
 Este proyecto demuestra mi capacidad para:
@@ -68,4 +95,5 @@ Este proyecto demuestra mi capacidad para:
 - Asegurar calidad en procesos críticos
 - Aportar valor real en momentos clave para la empresa
 
-Aquí consolidé mi perfil como un profesional que no solo registra, sino que **analiza, depura y asegura calidad**.
+Aquí consolidé mi perfil como un profesional que no solo registra, sino que **analiza, depura y asegura calidad** —
+y este mismo rigor es el que aplico como QA al probar mis propias herramientas.

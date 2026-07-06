@@ -22,9 +22,8 @@ con metodologías de testing y control de calidad.
 
 | Sección | Qué encontrarás |
 |---|---|
-| 💼 [trabajo/](./trabajo/README.md) | Estudios de caso de mi experiencia laboral: reconstrucción contable (Transervi), corrección tributaria de alto impacto (Electrovichada), auditorías internas (FERVICOM) y estandarización ISO 9001 (INLOGISTIC) |
-| 🎓 [estudios/](./estudios/README.md) | Bootcamp QA Engineer (TripleTen) con evidencias: [casos de prueba](./estudios/qa-evidencias/casos-de-prueba.md), [reportes de bugs](./estudios/qa-evidencias/reportes-de-bugs.md) y [checklists](./estudios/qa-evidencias/checklist.md) |
-| 🚀 [proyectos-personales/](./proyectos-personales/README.md) | Iniciativas propias, empezando por este portafolio y el repo [Bootcamp-QA](https://github.com/portafoliofinancieroinfo-lgtm/Bootcamp-QA) |
+| 💼 [trabajo/](./trabajo/README.md) | Estudios de caso de mi experiencia laboral —reconstrucción contable (Transervi), corrección tributaria de alto impacto (Electrovichada), auditorías internas (FERVICOM) y estandarización ISO 9001 (INLOGISTIC)— cada uno con una herramienta propia en Python y sus métricas |
+| 🚀 [proyectos-personales/](./proyectos-personales/README.md) | Evidencia QA (casos de prueba y bugs encontrados) de las 4 herramientas anteriores |
 
 ## Herramientas y tecnologías
 

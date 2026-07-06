@@ -28,7 +28,7 @@ Los estudios de caso completos están en [trabajo/](./trabajo/README.md).
 
 ## Formación
 
-- **Ingeniero de Calidad de Software** — TripleTen (2025–2026): pruebas manuales (web, cross-browser, móvil Android, API), diseño de pruebas, reporte de defectos en **Jira** y automatización con **Selenium WebDriver, Page Object Model y pytest**. Proyectos y evidencias en [estudios/](./estudios/README.md) y en el repo [Bootcamp-QA](https://github.com/portafoliofinancieroinfo-lgtm/Bootcamp-QA).
+- **Ingeniero de Calidad de Software** — TripleTen (2025–2026): pruebas manuales (web, cross-browser, móvil Android, API), diseño de pruebas, reporte de defectos en **Jira** y automatización con **Selenium WebDriver, Page Object Model y pytest**. Proyectos y evidencias en el repo [Bootcamp-QA](https://github.com/portafoliofinancieroinfo-lgtm/Bootcamp-QA).
 - **Contador Público** — Fundación de Educación Superior San José (2018–2022)
 - **Tecnólogo en Administración de Empresas** — Fundación de Educación Superior San José (2020–2021)
 
