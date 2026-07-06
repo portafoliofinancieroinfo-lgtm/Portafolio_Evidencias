@@ -1,7 +1,7 @@
 # Estructura del repositorio
 
 ```
-📁 Portafolio_Evidencias/
+📁 portafolio/
  ┣ 📄 README.md                    → portada e índice del portafolio
  ┣ 📄 about.md                     → perfil profesional ampliado
  ┣ 📄 Estructura.md                → este archivo
