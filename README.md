@@ -36,8 +36,8 @@ Conciliaciones · Nómina · Impuestos · NIIF · Control Interno · ISO 9001
 
 ## Contacto
 
-📧 Correo: briandcalero@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/brian-david-calero-torres-9b0280328
+📧 Correo: portafolio.financiero@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/davidcalero-qa-publicaccountant
 
 > Estoy abierto a oportunidades en QA, Contabilidad y perfiles híbridos donde
 > la calidad, el control y la tecnología se integren para generar valor.

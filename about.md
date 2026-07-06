@@ -1,7 +1,7 @@
 # 👤 Sobre mí — Brian David Calero Torres
 
 **Contador Público & Junior QA Tester** · Colombia
-📧 briandcalero@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/brian-david-calero-torres-9b0280328)
+📧 portafolio.financiero@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/davidcalero-qa-publicaccountant)
 
 ## Quién soy
 
@@ -47,3 +47,8 @@ Oportunidades en **QA (manual o automatización junior)**, **contabilidad con
 enfoque de control** o roles híbridos donde la calidad de la información sea
 el centro: testing de software financiero, auditoría de sistemas, control
 interno con componente tecnológico.
+
+Me motiva aplicar mis habilidades en entornos donde la **transformación
+digital exige precisión, confiabilidad y mejora continua**. Me interesan los
+proyectos que integran contabilidad, tecnología y datos, así como el
+aprendizaje constante en QA, automatización y sistemas financieros.
