@@ -43,7 +43,7 @@ Los estudios de caso completos están en [trabajo/](./trabajo/README.md).
 
 ## Lo que me define
 
-- **Ojo para el error:** detecté una carga tributaria inflada 10× que nadie había cuestionado; el mismo instinto con el que encontré un Error 500 en una API durante el bootcamp.
+- **Ojo para el error:** detecté una carga tributaria inflada 10× que nadie había cuestionado, con un ahorro de ~$300 millones para la entidad; el mismo instinto con el que encontré un Error 500 en una API durante el bootcamp.
 - **Método:** trabajo por bloques, con verificación cruzada, sin dar nada por válido sin soporte.
 - **Documentación:** procesos, hallazgos y evidencias siempre por escrito — de los POE bajo ISO 9001 a los bug reports en Jira.
 - **Presión:** he entregado reconstrucciones contables completas con plazos fiscales encima.

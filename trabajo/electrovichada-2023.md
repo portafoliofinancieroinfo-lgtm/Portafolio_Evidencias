@@ -49,7 +49,7 @@ Trabajé con enfoque analítico, revisando cuenta por cuenta y documento por doc
 
 ✔ Saneamiento completo de las cuentas del segundo semestre de 2022  
 ✔ Corrección de la base del impuesto ReteICA  
-✔ Reducción de la carga impositiva a menos de la décima parte de lo que se venía liquidando (la base estaba inflada en más de un **1000%**, equivalente a **~$15 millones detectados en sobrepago**)  
+✔ Reducción de la carga impositiva a menos de la décima parte de lo que se venía liquidando (la base estaba inflada en más de un **1000%**): un ahorro de **~$300 millones** para la entidad  
 ✔ Estados Financieros confiables para la toma de decisiones 
 
 ## ¿Por qué este proyecto es importante?
