@@ -21,7 +21,7 @@ para fortalecer el control, la calidad de la información y la eficiencia operat
 ## ¿Qué hice?
 
 - Identifiqué y mapeé los procesos contables clave.  
-- Documenté procedimientos operativos estándar (POE).  
+- Documenté más de 8 procedimientos operativos estándar (POE).  
 - Definí responsables, entradas, salidas y controles por proceso.  
 - Propuse indicadores básicos de gestión (KPIs).  
 - Acompañé la implementación de buenas prácticas de calidad.  

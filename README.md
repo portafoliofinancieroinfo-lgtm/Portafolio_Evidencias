@@ -29,14 +29,14 @@ con metodologías de testing y control de calidad.
 ## Herramientas y tecnologías
 
 **QA / Testing:**
-JIRA · Casos de prueba · Bug reports · Checklists · Testing funcional · UI Testing · Postman · Selenium WebDriver · Page Object Model · Python (pytest, requests) · Agile / Scrum
+JIRA · Casos de prueba · Bug reports · Checklists · Testing funcional · UI Testing · Postman · Selenium WebDriver · Page Object Model · Python (pytest, requests) · SQL · Agile / Scrum
 
 **Contabilidad / Auditoría:**
 Conciliaciones · Nómina · Impuestos · NIIF · Control Interno · ISO 9001
 
 ## Contacto
 
-📧 Correo: portafolio.financiero@gmail.com
+📧 Correo: portafolio.financiero.info@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/davidcalero-qa-publicaccountant
 
 > Estoy abierto a oportunidades en QA, Contabilidad y perfiles híbridos donde

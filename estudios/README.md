@@ -3,7 +3,7 @@
 Formación técnica complementaria a mi carrera de Contaduría Pública, con
 énfasis en **aseguramiento de calidad de software (QA)**.
 
-## Bootcamp QA Engineer — TripleTen (2025–2026)
+## Ingeniero de Calidad de Software — TripleTen (2025–2026)
 
 Programa intensivo de QA Testing con proyectos prácticos sobre aplicaciones
 web, móviles y APIs. Todo el código y la documentación están publicados en el
@@ -34,5 +34,8 @@ Muestras representativas del trabajo del bootcamp, en formato listo para revisi�
 
 ## Otra formación
 
-- **Contaduría Pública** — título profesional (base de mi experiencia en [trabajo](../trabajo/README.md)).
-- Formación continua en NIIF, tributaria y control interno.
+- **Contador Público** — Fundación de Educación Superior San José (2018–2022), base de mi experiencia en [trabajo](../trabajo/README.md).
+- **Tecnólogo en Administración de Empresas** — Fundación de Educación Superior San José (2020–2021).
+- Diplomados en Sistemas Integrados de Gestión SIG, Revisoría Fiscal Basada en NIA, Docencia Universitaria e Inteligencia de Negocios; inglés B1.
+
+El detalle completo de certificados está en [about.md](../about.md).

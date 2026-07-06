@@ -1,14 +1,15 @@
 # 👤 Sobre mí — Brian David Calero Torres
 
 **Contador Público & Junior QA Tester** · Colombia
-📧 portafolio.financiero@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/davidcalero-qa-publicaccountant)
+📧 portafolio.financiero.info@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/davidcalero-qa-publicaccountant)
 
 ## Quién soy
 
-Soy Contador Público con varios años de experiencia en análisis contable,
-conciliaciones, impuestos, nómina y control financiero, y me formé como
-**QA Tester** para llevar al software la misma disciplina que aplico a la
-información financiera: verificar, depurar y asegurar calidad.
+Soy Contador Público con **más de 3 años de experiencia** en análisis
+contable, conciliaciones, impuestos, nómina y control financiero, y me formé
+como **QA Tester** para llevar al software la misma disciplina que aplico a la
+información financiera: verificar, depurar y asegurar calidad. Manejo Python,
+SQL, Jira y metodologías Agile; inglés B1.
 
 Mi punto fuerte es el perfil híbrido: entiendo las **reglas de negocio
 financieras** desde adentro y sé **probarlas como tester** — un cruce valioso
@@ -25,14 +26,20 @@ para equipos que desarrollan software contable, financiero o ERP.
 
 Los estudios de caso completos están en [trabajo/](./trabajo/README.md).
 
-## Formación en QA
+## Formación
 
-Bootcamp **QA Engineer (TripleTen)**: pruebas manuales (web, cross-browser,
-móvil Android, API), diseño de pruebas (clases de equivalencia, valores
-límite, tablas de decisión), reporte de defectos en **Jira** y automatización
-con **Selenium WebDriver, Page Object Model y pytest**.
-Proyectos y evidencias en [estudios/](./estudios/README.md) y en el repo
-[Bootcamp-QA](https://github.com/portafoliofinancieroinfo-lgtm/Bootcamp-QA).
+- **Ingeniero de Calidad de Software** — TripleTen (2025–2026): pruebas manuales (web, cross-browser, móvil Android, API), diseño de pruebas, reporte de defectos en **Jira** y automatización con **Selenium WebDriver, Page Object Model y pytest**. Proyectos y evidencias en [estudios/](./estudios/README.md) y en el repo [Bootcamp-QA](https://github.com/portafoliofinancieroinfo-lgtm/Bootcamp-QA).
+- **Contador Público** — Fundación de Educación Superior San José (2018–2022)
+- **Tecnólogo en Administración de Empresas** — Fundación de Educación Superior San José (2020–2021)
+
+### Certificados y formación complementaria
+
+- Diplomado en Sistemas Integrados de Gestión SIG — Politécnico Superior de Colombia (2026)
+- Diplomado en Revisoría Fiscal Basada en NIA — Politécnico Superior de Colombia (2025)
+- Diplomado en Docencia y Didáctica Universitaria — Politécnico Superior de Colombia (2025)
+- Diplomado en Inteligencia de Negocios — Fundación de Educación Superior San José (2022)
+- Seminario en Marketing Digital y Negocios Digitales — Fundación de Educación Superior San José (2021)
+- Certificado de Inglés B1 — IBEST SAS (2021)
 
 ## Lo que me define
 
