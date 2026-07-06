@@ -1,49 +1,45 @@
-# Portafolio – Brian David Calero Torres  
+# Portafolio – Brian David Calero Torres
 **Contador Público & Junior QA Tester**
 
-Bienvenido a mi portafolio profesional.  
-Aquí encontrarás una muestra práctica de mi experiencia en contabilidad, auditoría, control interno y aseguramiento de calidad de software (QA), con enfoque en procesos y sistemas financieros.
+Bienvenido a mi portafolio profesional: una vitrina de los proyectos que he
+desarrollado en mis entornos laborales, mi formación en QA y mis iniciativas
+personales, con enfoque en la **calidad de la información** — financiera y de
+software.
 
-## Sobre mí  
+## Sobre mí
 
-Soy Contador Público con experiencia en análisis contable, nómina, conciliaciones, impuestos y control financiero, complementado con formación y práctica como Quality Assurance Tester.  
-Mi perfil está orientado al aseguramiento de la calidad de la información financiera y a la validación de procesos y sistemas contables.
+Soy Contador Público con experiencia en análisis contable, nómina,
+conciliaciones, impuestos y control financiero, complementado con formación y
+práctica como **Quality Assurance Tester**.
 
-Me especializo en identificar errores, riesgos e inconsistencias, proponer mejoras y garantizar el cumplimiento normativo, integrando criterios contables con metodologías de testing y control de calidad.
+Me especializo en identificar errores, riesgos e inconsistencias, proponer
+mejoras y garantizar el cumplimiento normativo, integrando criterios contables
+con metodologías de testing y control de calidad.
 
+➡️ Perfil ampliado en [about.md](./about.md)
 
-## Propósito del repositorio  
+## Contenido del portafolio
 
-Este repositorio tiene como objetivo mostrar de forma práctica mis habilidades y logros en:
+| Sección | Qué encontrarás |
+|---|---|
+| 💼 [trabajo/](./trabajo/README.md) | Estudios de caso de mi experiencia laboral: reconstrucción contable (Transervi), corrección tributaria de alto impacto (Electrovichada), auditorías internas (FERVICOM) y estandarización ISO 9001 (INLOGISTIC) |
+| 🎓 [estudios/](./estudios/README.md) | Bootcamp QA Engineer (TripleTen) con evidencias: [casos de prueba](./estudios/qa-evidencias/casos-de-prueba.md), [reportes de bugs](./estudios/qa-evidencias/reportes-de-bugs.md) y [checklists](./estudios/qa-evidencias/checklist.md) |
+| 🚀 [proyectos-personales/](./proyectos-personales/README.md) | Iniciativas propias, empezando por este portafolio y el repo [Bootcamp-QA](https://github.com/portafoliofinancieroinfo-lgtm/Bootcamp-QA) |
 
-- 📊 Contabilidad y control financiero  
-- 🧾 Auditoría y control interno  
-- 🧪 QA / Testing funcional de software  
-- 🔎 Validación de reglas de negocio y procesos  
+## Herramientas y tecnologías
 
-Aquí encontrarás proyectos reales que evidencian mi aporte en la mejora de procesos, la calidad de la información y la confiabilidad de los sistemas.
+**QA / Testing:**
+JIRA · Casos de prueba · Bug reports · Checklists · Testing funcional · UI Testing · Postman · Selenium WebDriver · Page Object Model · Python (pytest, requests) · Agile / Scrum
 
-## Contenido del portafolio  
+**Contabilidad / Auditoría:**
+Conciliaciones · Nómina · Impuestos · NIIF · Control Interno · ISO 9001
 
-Dentro de este repositorio podrás explorar:
+## Contacto
 
-- 📁 `Accounts_evidences/` → Casos y proyectos profesionales  
-- 📁 `qa-evidences/` → Casos de prueba, bug reports y checklists  
-- 📄 `about.md` → Información ampliada sobre mi perfil  
+📧 Correo: briandcalero@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/brian-david-calero-torres-9b0280328
 
-## Herramientas y tecnologías  
-
-**QA / Testing:**  
-JIRA · Test Cases · Bug Reporting · Agile · Scrum · Testing Funcional · UI Testing  
-
-**Contabilidad / Auditoría:**  
-Conciliaciones · Nómina · Impuestos · NIIF · Control Interno · ISO 9001  
-
-## Contacto  
-
-📧 Correo: briandcalero@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/brian-david-calero-torres-9b0280328  
-
-> Estoy abierto a oportunidades en QA, Contabilidad y perfiles híbridos donde la calidad, el control y la tecnología se integren para generar valor.
+> Estoy abierto a oportunidades en QA, Contabilidad y perfiles híbridos donde
+> la calidad, el control y la tecnología se integren para generar valor.
 
 ⭐ Si este portafolio te resulta útil o interesante, no dudes en explorarlo y contactarme.
